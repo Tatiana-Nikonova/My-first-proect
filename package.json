@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pavel-A-T/first_project.git"
+    "url": "git+https://github.com/Tatiana-Nikonova/My-first-proect/edit/main/package.json"
   },
   "keywords": [
     "game"
   ],
-  "author": "Pavel T.",
+  "author": "Tatiana Nikonova",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pavel-A-T/first_project/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Pavel-A-T/first_project#readme",
+  "homepage": "",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.5",
